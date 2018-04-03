@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import "SkeletonViewOC-Swift.h"
+//#import "SkeletonViewOC-Swift.h"
 
 
 @interface ViewController ()
