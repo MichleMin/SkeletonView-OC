@@ -1,0 +1,4 @@
+framework module SkeletonView_OC {
+    header "SkeletonView_OC-Swift.h"
+    requires objc
+}
