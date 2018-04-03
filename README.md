@@ -1,2 +1,2 @@
 # SkeletonView-OC
-使Skeleton支持OC调用
+让Skeleton支持OC调用
